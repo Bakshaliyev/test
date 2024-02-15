@@ -6,13 +6,16 @@
 
 
 
-//int a = 1234;
-//int num1 = 1234 / 1000;
-//int num2 = (1234 / 1000)+2;   //  2 exam
-//int num3 = 1234 % 1230;
-//int num4 = (1234 / 1000)+1;
 
-//    Console.WriteLine(num1+num2); Console.WriteLine(num3-num4);
+
+//int num1 = 1432 / 1000;
+//int num2 = 1432 % 1428;
+//int num3 = 1432 % 1429;             // exam 2
+//int num4 = 1432 % 1430;
+
+//Console.WriteLine(num1 + num3); Console.WriteLine(num2-num4);
+
+
 
 
 //int num1 = 753;
@@ -52,10 +55,6 @@
 //Console.WriteLine("Otagin sahesi: " + sahe);
 
 //Console.WriteLine("Lazim olan boya : " + ((sahe - (sahe * 0.2)) * 0.5));
-
-
-
-
 
 
 
