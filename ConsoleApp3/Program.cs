@@ -11,7 +11,7 @@
 //int num2 = (1234 / 1000)+2;
 //int num3 = 1234 % 1230;
 //int num4 = (1234 / 1000)+1;
-
+//tt
 //    Console.WriteLine(num1+num2); Console.WriteLine(num3-num4);
 
 
