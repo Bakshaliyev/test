@@ -1,59 +1,53 @@
-﻿using System.Net.WebSockets;
+﻿//int length = 9;
+//string[] names = new string[length];
+//names[0] = "Fizuli";
+//names[1] = "Ismayil";
+//names[2] = "Naila";
+//names[3] = "Mircefer";                   // online offline exam
+//names[4] = "Gultac";
+//names[5] = "Nail";                             
+//names[6] = "Anur";
+//names[7] = "Vusal";
+//names[8] = "Cemile";
 
-Console.WriteLine("Kartin nomresini daxil edin");
-int cardnumber = Convert.ToInt32(Console.ReadLine());
+//bool[] status = new bool[length];
+//status[0] = false;
+//status[1] = true;
+//status[2] = false;
+//status[3] = true;
+//status[4] = true;
+//status[5] = false;
+//status[6] = true;
+//status[7] = false;
+//status[8] = true;
 
-switch (cardnumber)
-{
+//for (int i = 0; i < length; i++)
+//{
+//    switch (status[i])
+//    {
+//        case true:
+//            Console.WriteLine($"{names[i]} Online");
+//            break;
+//        case false:
+//            Console.WriteLine($"{names[i]} Offline");
 
-        case 0:
-        Console.WriteLine(5);
-        break;
+//            break;
 
-        case 1:
-        Console.WriteLine("Deyeri: "+   10);
-        break;
-
-        case 2:
-        Console.WriteLine("Deyeri: "+ 15);
-        break;
-
-        case 3: 
-        Console.WriteLine("Deyeri: " + 20); 
-        break;
-
-        case 4:
-        Console.WriteLine("Deyeri: " + 25);
-        break;
-
-        case 5:
-        Console.WriteLine("Deyeri: " + 30);
-        break;
-
-        case 6:
-        Console.WriteLine("Deyeri: " + 35);
-        break;
-
-        case 7:
-        Console.WriteLine("Deyeri: " + 40);
-        break;
-
-        case 8:
-        Console.WriteLine("Deyeri: " + 45);
-        break;
-
-        case 9:
-        Console.WriteLine("Deyeri: " + 50);
-        break;
-
-        case 10:
-        Console.WriteLine("Deyeri: " + 55);
-        break;
-
-        default :
-        Console.WriteLine("Kart nomresi 10 qederdir ");
-        break;
-       
+//    }
+//}
 
 
-}
+//int[] arr = new int[10] { 0, 1, 3, 4, 6, 5, 7, 8, 9, 2 };
+//for (int i = 0; i < arr.Length; i++) 
+//{
+//    Console.WriteLine((arr[i])+"\n");
+//}
+// true print
+//int[] ints = new int[10] { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+
+//for (int i = 0; i < ints.Length; i++)
+//{
+//    Console.Write((ints[i])+"\t");
+//}
+
+
